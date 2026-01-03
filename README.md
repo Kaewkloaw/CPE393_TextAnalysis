@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⭐ CPE 393 Text Analytics ⭐ </h1>
+  <h1>CPE 393 Text Analytics</h1>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+CPE+393!;🌷+Text+Analytics+@+KMUTT;✨+Extracting+Insights+from+Data&center=true&width=500&height=45&color=F48FB1">
   <p align="center">🌼 A comprehensive collection of techniques for processing and analyzing textual data! 💐</p>
    
