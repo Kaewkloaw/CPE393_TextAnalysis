@@ -22,7 +22,7 @@
 ## 👩‍🏫 Instructor Information
 * 🌷 **Instructor:** Dr. Sansiri Tarnpradab 
 * 📧 **Email:** sansiri.tarn@kmutt.ac.th 
-* 🏫 **Lecture:** Wed 9.30-12.30 at Room CB 2603 
+* 🏫 **Lecture:** Wed 9.30-12.30 at Room CB2603/CPE1115 
 * 🌺 **TA:** Phanita Sirichai
 
 ## 📅 Course Schedule
